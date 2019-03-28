@@ -1,0 +1,32 @@
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Data.Common.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.IO.Compression.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Net.Http.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Net.Sockets.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Security.SecureString.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\DontPanic.TumblrSharp.Client.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\DontPanic.TumblrSharp.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Tumblr.API.dll
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Tumblr.API.pdb
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csprojAssemblyReference.cache
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe.config
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Auth_Form.resources
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Account_Form.resources
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CopyComplete
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb

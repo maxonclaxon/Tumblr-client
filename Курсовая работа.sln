@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Курсовая работа", "Курсовая работа\Курсовая работа.csproj", "{AEC3799A-6377-41FD-91C7-08410180BDDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumblr.API", "..\ConsoleApp3\Tumblr.API\Tumblr.API.csproj", "{39BC9CEF-A95C-4623-B92C-08A40881B4F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEC3799A-6377-41FD-91C7-08410180BDDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC3799A-6377-41FD-91C7-08410180BDDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC3799A-6377-41FD-91C7-08410180BDDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC3799A-6377-41FD-91C7-08410180BDDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BC9CEF-A95C-4623-B92C-08A40881B4F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BC9CEF-A95C-4623-B92C-08A40881B4F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BC9CEF-A95C-4623-B92C-08A40881B4F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BC9CEF-A95C-4623-B92C-08A40881B4F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {131CA52D-5E2C-4605-8AD6-9F754525C968}
+	EndGlobalSection
+EndGlobal
