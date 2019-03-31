@@ -30,3 +30,4 @@ C:\Users\zz\source\repos\Курсовая работа\Курсовая рабо
 C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CopyComplete
 C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
 C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\zz\source\repos\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Post_Form.resources

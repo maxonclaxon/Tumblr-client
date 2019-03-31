@@ -69,8 +69,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.auth_button);
             this.Controls.Add(this.auth_textBox);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Auth_Form";
-            this.Text = "Form1";
+            this.Text = "Поиск";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

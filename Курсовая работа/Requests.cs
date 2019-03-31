@@ -17,11 +17,33 @@ namespace Курсовая_работа
         /// <returns></returns>
         public static async Task<string> GETrequest(string method)
         {
-            string Url = RequestLink.url+method;
+            string Url = RequestLink.url() + method;
             WebRequest req = WebRequest.Create(Url + "?" +Api_Tools.api_key);
             try
             {
                 WebResponse resp =  req.GetResponse();
+
+                using (StreamReader sr = new StreamReader(resp.GetResponseStream()))
+                {
+                    string Out = sr.ReadToEnd();
+                    resp.Close();
+                    resp.Dispose();
+                    return Out;
+                }
+            }
+            catch (Exception)
+            {
+                string Out = "Неверный логин!";
+                return Out;
+            }
+        }
+        public static async Task<string> GETrequest(string method, string param)
+        {
+            string Url = RequestLink.url() + method;
+            WebRequest req = WebRequest.Create(Url + "?" + Api_Tools.api_key + "&"+param);
+            try
+            {
+                WebResponse resp = req.GetResponse();
 
                 using (StreamReader sr = new StreamReader(resp.GetResponseStream()))
                 {
@@ -42,7 +64,10 @@ namespace Курсовая_работа
         /// </summary>
         public class RequestLink
         {
-            public static string url = Api_Tools.url + User.Username + Api_Tools.lastuser;
+            public static string url()
+            {
+                return Api_Tools.url + User.Username + Api_Tools.lastuser;
+            }
 
         }
         /// <summary>

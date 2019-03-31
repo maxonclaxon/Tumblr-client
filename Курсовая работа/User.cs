@@ -10,5 +10,5 @@ namespace Курсовая_работа
         {
             public static string Username { get; set; }
             public static bool loggedin { get; set; } = false;
-        }
+    }
 }
